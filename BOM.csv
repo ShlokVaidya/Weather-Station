@@ -1,0 +1,9 @@
+Component,Quantity,Notes
+Microcontroller,1,ESP32 or Arduino
+DHT22 Sensor,1,Temperature and Humidity
+BMP280 Sensor,1,Pressure and Altitude
+Power Supply,1,5V USB or Battery
+Resistors,2,7.4k pull-up
+Raindrops Sensor,1,Rain detection
+PCB/Breadboard,1,For assembly
+Connectors,1,Jumper wires and headers
