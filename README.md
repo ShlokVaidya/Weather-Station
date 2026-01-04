@@ -22,6 +22,8 @@ A comprehensive weather monitoring system that measures temperature, humidity, p
 | Raindrops sensor | 1 | Raindrops |
 | PCB/Breadboard | 1 | For assembly |
 | Connectors | 1 | Jumper wires & headers |
+
+![BOM](./BOM.csv)
 ## BOM
 ![Bill of Material](./images/image.png)
 ## Schematic
