@@ -13,16 +13,17 @@ A comprehensive weather monitoring system that measures temperature, humidity, p
 
 ### Bill of Materials (BOM)
 *Assuming Rs89 = $1, Also note 2components have a minimum order quantity of 2, hence a gap of $3.28 in total cost calculations*
-| Component        | Quantity | Notes                  | Price (₹) | Price (USD) |
-| ---------------- | -------- | ---------------------- | --------- | ----------- |
-| Microcontroller  | 1        | ESP32 or Arduino       | ₹280.00   | $3.15       |
-| DHT22 Sensor     | 2        | Temperature & Humidity | ₹219.00   | $2.46 (x2)  |
-| BMP280 Sensor    | 1        | Pressure & Altitude    | ₹128.00   | $1.44       |
-| Power Supply     | 1        | 5V USB or Battery      | ₹309.00   | $3.47       |
-| Resistors        | 2        | 7.4kΩ pull-up          | ₹0.00*    | $0.00*      |
-| Raindrops sensor | 2        | Raindrops              | ₹163.00   | $1.83 (x2)  |
-| PCB/Breadboard   | 1        | For assembly           | ₹279.00   | $3.13       |
-| Prototype board  | 1        | Prototyping            | ₹199.00   | $2.24       |
+| Component            | Quantity | Notes                                    | Price   | Purchase Link                                                                                                                                                                |
+| -------------------- | -------- | ---------------------------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Microcontroller**  | 1        | ESP8266 / ESP32 / Arduino (ESP8266 used) | ₹280.00 | [https://www.amazon.in/Robocraze-ESP8266-Nodemcu-Internet-Development/dp/B0829Z1W6Y/](https://www.amazon.in/Robocraze-ESP8266-Nodemcu-Internet-Development/dp/B0829Z1W6Y/)   |
+| **DHT22 Sensor**     | 1        | Temperature & Humidity                   | ₹219.00 | [https://www.amazon.in/Robocraze-Digital-Temperature-Humidity-Sensor/dp/B0D6R8RMVV/](https://www.amazon.in/Robocraze-Digital-Temperature-Humidity-Sensor/dp/B0D6R8RMVV/)     |
+| **BMP280 Sensor**    | 2 (min)  | Pressure & Altitude                      | ₹128.00 | [https://www.amazon.in/Robodo-Pressure-Precision-Arduino-Replace/dp/B07DDJ3MFX/](https://www.amazon.in/Robodo-Pressure-Precision-Arduino-Replace/dp/B07DDJ3MFX/)             |
+| **Power Supply**     | 1        | 5V USB / 5V 600 mAh Battery              | ₹309.00 | [https://www.amazon.in/gp/product/B0CYQ6H8FW/](https://www.amazon.in/gp/product/B0CYQ6H8FW/)                                                                                 |
+| **Resistors**        | 2        | 7.5 kΩ pull-up resistors                 | —       | [https://www.amazon.in/7-5K-ohm-Watt-Resistor-Tolerance/dp/B0DQJG1MHL/](https://www.amazon.in/7-5K-ohm-Watt-Resistor-Tolerance/dp/B0DQJG1MHL/)                               |
+| **Raindrop Sensor**  | 2 (min)  | Rain detection                           | ₹163.00 | [https://www.amazon.in/Robodo-Electronics-Raindrops-Detection-Humidity/dp/B00NEINLWO/](https://www.amazon.in/Robodo-Electronics-Raindrops-Detection-Humidity/dp/B00NEINLWO/) |
+| **PCB / Breadboard** | 1        | Circuit assembly & testing               | ₹279.00 | [https://www.amazon.in/ePro-Labs-KIT-0010-Breadboard-Pieces/dp/B01BLJGS7M/](https://www.amazon.in/ePro-Labs-KIT-0010-Breadboard-Pieces/dp/B01BLJGS7M/)                       |
+| **Prototype Board**  | 1        | Final prototyping                        | ₹248.00 | (Local vendor / optional)                                                                                                                                                    
+
 
 Total Cost: ₹1577.00 | $17.72
 Due to Min Order Qty, Actual Cost: ₹1868 | $21 with a buffer of $3 for conversion fees.
